@@ -23,10 +23,10 @@
 
 ## Features ✨
 
-- Get Saved Tabs `Planned`
-- Update Saved Tabs `Planned`
-- Create New Saved Tabs `Planned`
-- Modify Projects (Tab Groups) `Planned`
+- Create a Syncpad Config Grid `Planned`
+- Load Config into BigParser `Planned`
+- Sync Config from BigParser  `Planned`
+- Sync Config in Realtime `Planned`
 - Typescript Support `Planned`
 
 ## Install 🛠
@@ -51,6 +51,10 @@ Congrats! Your Config is Ready to Sync!
 $ syncpad sync
 Syncing Config from BigParser into this project...
 Sync Complete! Your Project Config is now up-to-date
+
+$ syncpad daemon
+Starting Background Daemon to Sync Projects...
+Daemon Started! Your Projects will be syncing in realtime.
 ```
 
 ## Documentation 🛰
