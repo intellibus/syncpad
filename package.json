@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "syncpad",
-  "version": "1.0.51",
+  "version": "1.0.52",
   "description": "Manage Common Configuration Between Projects",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
